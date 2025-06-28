@@ -1,0 +1,46 @@
+.head{
+     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(29, 48, 107);
+    margin-top: 150px;
+}
+.upcoming{
+    border: 1px solid grey;
+    width: 20%;
+    height: 67vh;
+    text-align: justify;
+    border-radius: 8px;
+    
+}
+.upcoming h1{
+ color: red;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 4rem;
+  margin-left: 10px;
+}
+.upcoming p{
+    color: grey;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       margin-left: 10px;
+}
+.upcoming h3{
+     color: rgb(29, 48, 107);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       margin-left: 10px;
+}
+.upcom{
+    display: flex;
+    justify-content: space-evenly;
+}
+ .campbtn{
+     border: 1px solid rgb(178, 178, 226);
+    color: rgb(19, 56, 165);
+    padding: 13px;
+    width: 160px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-left: 48px;
+    
+ }

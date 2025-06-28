@@ -1,0 +1,58 @@
+.head{
+     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(29, 48, 107);
+    margin-top: 150px;
+}
+
+.campusmain{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-evenly;
+}
+.campus1 p{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    color: grey;
+}
+
+.campus1 h1{
+    color: rgb(45, 45, 138);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.campus1 div{
+    display: flex;
+}
+.campus1 div button{
+    width: -20%;
+    padding: 10px;
+ border-radius: 120%;
+ font-size: 20px;
+ margin-left: 50px;
+}
+/* .campus1 div img{
+    margin-left: 40px;
+    width: 70px;
+
+} */
+ .blog{
+    display: inline;
+ }
+
+ .campbtn{
+     border: 1px solid rgb(178, 178, 226);
+    color: rgb(19, 56, 165);
+    padding: 20px;
+    width: 240px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bolder;
+    
+ }
+ .campbtndiv{
+    display: flex;
+    justify-content: center;
+ }
